@@ -1,0 +1,32 @@
+_repo: Conversations-on-Natural-Philosophy-in-which-the-Elements-of-that-Science-are-Familiarly-Expl__36691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Marcet, Mrs. (Jane Haldimand)
+    alias: Marcet, Jane Haldimand
+    birthdate: 1769
+    deathdate: 1858
+    gutenberg_agent_id: '32323'
+    url: http://www.gutenberg.org/2009/agents/32323
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Marcet
+  - agent_name: Jones, Thomas P.
+    gutenberg_agent_id: '38425'
+    url: http://www.gutenberg.org/2009/agents/38425
+description: ''
+gutenberg_issued: '2011-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Physics'
+title: Conversations on Natural Philosophy, in which the Elements of that Science
+  are Familiarly Explained
+url: http://www.gutenberg.org/ebooks/36691
